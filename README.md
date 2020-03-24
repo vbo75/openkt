@@ -1,2 +1,3 @@
-# OpenKT
-# © Vincent Boulet 2020
+OpenKT
+
+© Vincent Boulet 2020
